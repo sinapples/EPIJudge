@@ -27,3 +27,5 @@ epi_judge_java/java_build/
 
 # OS X specific files
 .DS_Store
+epi_judge_java/out
+epi_judge_java/epi_judge_java.iml
